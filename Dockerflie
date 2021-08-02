@@ -1,2 +1,2 @@
-FROM hshar/webap
+FROM shykes/myapp
 ADD . /var/www/html
